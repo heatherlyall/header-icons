@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 header {
@@ -18,8 +18,7 @@ header {
 .columns {
   display: flex;
   flex-direction: row;
-  padding:.4em 0;
-  align-items: stretch;
+  padding: .4em 0;
 }
 
 .col {
@@ -30,13 +29,13 @@ header {
   font-size: 1.125rem;
   border-top: 2px solid #a63f38;
   border-right: 2px solid #a63f38;
-  border-bottom: 2px solid #a63f38;
   padding: .5em 0;
 }
 
 .images {
   width: 40px;
-  align-items: stretch;
+  align-items: center;
+  justify-content: space-between;
 }
 
 
