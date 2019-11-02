@@ -33,9 +33,9 @@ header {
 }
 
 .images {
-  width: 40px;
-  align-items: center;
-  justify-content: space-between;
+width: 40px;
+display: inline;
+margin: 0;
 }
 
 
