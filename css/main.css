@@ -33,15 +33,13 @@ header {
 }
 
 .images {
-width: 40px;
-display: inline;
-margin: 0;
-display: flex;
-flex-direction: row;
-text-align: center;
-
+  width: 40px;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
 }
-
 
 .col:hover {
   background-color: #a63f38;
