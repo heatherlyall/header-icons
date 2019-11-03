@@ -36,6 +36,8 @@ header {
 width: 40px;
 display: inline;
 margin: 0;
+display: flex;
+flex-direction: row;
 }
 
 
